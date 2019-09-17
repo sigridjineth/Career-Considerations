@@ -1,5 +1,5 @@
 # Career-Considerations
-I have researched prospective career considerations and attempted it to be open-sourced for the betterment of others also.
+I have researched prospective career considerations and attempted it to be open-sourced for the betterment of all friends.
 
 ## To begin with,
 After taking Korean SAT in late 2017, I have experienced around 3+ interns and freelancing job in several companies. Since time starts to urge me to decide my potential career path, considering several options based on my performance on working places. It is **NOT** deniable that there is fundamental founding on myself to have rudimentary interests in understanding the human dynamics in general. 

@@ -8,5 +8,5 @@ Yes, Tech scene will act upon as augmented skillset for the betterment of resear
 
 In this sense, it is clear that just after finishing up my military duties as soon as possible, declaring the primary major from existing "interdisciplinary studies" (so-called still around freshman or so) is important and do prepare the afterward given my career choice.
 
-## What I am going to do in this repository?
+## What am I going to do in this repository?
 Trying to collect lots of papers, interviews, articles from the journal, and even job description on LinkedIn or similar sites for better understanding the dynamics. Repos will be generally focused on data science or economic-based research field.
